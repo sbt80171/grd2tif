@@ -108,7 +108,6 @@ def main(fill=FILL):
             f.write(arr, 1)
 
         print(fn)
-        print(trans)
 
 
 if __name__ == '__main__':
